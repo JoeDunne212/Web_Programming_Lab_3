@@ -104,6 +104,9 @@ a.lien:active {
   margin-top: -20px;
 }
 
+form {
+  padding: 5% 10%;
+}
 table.contactsTable {
   width: 100%;
   background-color: #ffffff;
