@@ -107,7 +107,7 @@ a.lien:active {
 form {
   padding: 5% 10%;
 }
-table.contactsTable {
+/* table.contactsTable {
   width: 100%;
   background-color: #ffffff;
   border-collapse: collapse;
@@ -127,4 +127,4 @@ table.contactsTable th {
 
 table.contactsTable thead {
   background-color: #ffcc00;
-}
+} */
