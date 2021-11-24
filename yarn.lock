@@ -347,11 +347,6 @@ ms@2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.1.tgz#30a5864eb3ebb0a66f2ebe6d727af06a09d86e0a"
   integrity sha512-tgp+dl5cGk28utYktBsrFqA7HKgrhgPsg6Z/EfhWI4gl1Hwq8B/GmY/0oXZ6nF8hDVesS/FpnYaD/kOWhYQvyg==
 
-myql@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/myql/-/myql-1.0.0.tgz#9c8933f5e6e7e5d4a6957da8aa3d2d34972e235d"
-  integrity sha512-Ygwo1h0u9JlN6ohOxvCOOYlh5354scgIpEdmSbp+v8O+mWC8MFGHbJBU/yAS26mgIuaISpXJc2XYlkUEXmdAdQ==
-
 mysql@^2.18.1:
   version "2.18.1"
   resolved "https://registry.yarnpkg.com/mysql/-/mysql-2.18.1.tgz#2254143855c5a8c73825e4522baf2ea021766717"
